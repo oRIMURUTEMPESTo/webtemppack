@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": "A small web app showing advantages and disadvantages of packaging applications.",
+  "main": "index.js",
+  "name": "my-web-app",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}
